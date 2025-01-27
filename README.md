@@ -1,27 +1,23 @@
 # 👋 Hello! Welcome to My GitHub Profile  
 
-## 🌐 About Me
+## 👤 About Me
 I’m an aspiring **Cybersecurity Analyst** with a keen interest in learning how to protect systems and data from threats. While I’m at the start of my journey, I’m continuously building my knowledge in cybersecurity fundamentals, programming, and tools to grow in this field.
 
 ---
 
-## 💻 Skills and Knowledge
-Here are some of the skills and technologies I’m familiar with so far:
-## 💻 Skills and Knowledge
-Here are some of the skills and technologies I’m familiar with:
 
 ## 💻 Skills and Knowledge
 Here are some of the skills and technologies I’m familiar with:
 
 - **Programming and Markup Languages:**  
- 
+<p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Scratch_Logo.svg" alt="Scratch" width="40" height="40"/>
-
-
-- **Version Control:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
+
+---
 
 - **Foundational Skills:**  
   - Basic Networking Concepts (IP, DNS, and Ports)  
