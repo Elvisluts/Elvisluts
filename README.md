@@ -7,6 +7,14 @@ I’m an aspiring **Cybersecurity Analyst** with a keen interest in learning how
 
 ## 💻 Skills and Knowledge
 Here are some of the skills and technologies I’m familiar with so far:
+## 💻 Skills and Knowledge
+Here are some of the skills and technologies I’m familiar with:
+
+- ![HTML](https://img.shields.io/badge/HTML-005F9E?style=flat&logo=html5&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=flat&logo=scratch&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 
 - **Programming and Markup Languages:**  
   - HTML  
